@@ -1,5 +1,10 @@
 # Tools
 
+# License
+
+The tools under this directory are available under the Apache License v2.0.
+See [LICENSE.txt](LICENSE.txt) for details.
+
 # Sample Usage
 
 compare_font
@@ -19,3 +24,7 @@ To use compare_font and sanity_check you will need:
 
 * https://github.com/google/google-apputils.
 * https://github.com/behdad/fonttools.
+
+To use sanity_check you will additionally need:
+
+* https://github.com/google/protobuf
